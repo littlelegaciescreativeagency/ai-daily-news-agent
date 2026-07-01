@@ -2,14 +2,18 @@ name: AI Daily News Agent
 
 on:
   schedule:
-    - cron: "0 11 * * *"  # 6:00 AM EST
+    - cron: "0 11 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout repo
         uses: actions/checkout@v4
 
@@ -19,17 +23,22 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
 
       - name: Run AI Agent
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: python main.py
+        run: |
+          python main.py
 
       - name: Commit output
         run: |
-          git config --global user.name "ai-agent"
-          git config --global user.email "ai@agent.com"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
           git add output/
-          git commit -m "Daily AI News Update" || echo "No changes"
-          git push
+
+          git diff --cached --quiet || git commit -m "Daily AI News Update"
+
+          git push origin main
