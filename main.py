@@ -3,123 +3,148 @@ import requests
 import os
 from datetime import datetime
 
-# -----------------------------
-# 1. LOAD RSS FEEDS
-# -----------------------------
-def get_feeds():
-    return [
-        "https://techcrunch.com/category/artificial-intelligence/feed/",
-        "https://www.theverge.com/artificial-intelligence/rss/index.xml",
-        "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
-    ]
+# ----------------
+# GET NEWS
+# ----------------
+FEEDS = [
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://www.theverge.com/artificial-intelligence/rss/index.xml",
+    "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+]
 
-# -----------------------------
-# 2. FETCH NEWS
-# -----------------------------
 def get_news():
-    feeds = get_feeds()
     articles = []
 
-    for url in feeds:
+    for url in FEEDS:
         feed = feedparser.parse(url)
 
-        for entry in feed.entries[:5]:
+        for item in feed.entries[:5]:
             articles.append({
-                "title": entry.get("title", ""),
-                "summary": entry.get("summary", ""),
-                "link": entry.get("link", "")
+                "title": item.get("title", ""),
+                "summary": item.get("summary", ""),
+                "link": item.get("link", "")
             })
 
     return articles
 
-# -----------------------------
-# 3. FORMAT NEWS FOR AI
-# -----------------------------
-def format_news(articles):
+
+# ----------------
+# FORMAT NEWS
+# ----------------
+def format_news(data):
+
     output = ""
 
-    for a in articles:
+    for article in data:
         output += f"""
-TITLE: {a['title']}
-SUMMARY: {a['summary']}
-LINK: {a['link']}
----
+TITLE: {article['title']}
+SUMMARY: {article['summary']}
+LINK: {article['link']}
+
 """
+
     return output
 
-# -----------------------------
-# 4. CALL GROQ AI
-# -----------------------------
-def generate_content(news_text):
-    api_key = os.getenv("GROQ_API_KEY")
+
+# ----------------
+# CALL GROQ
+# ----------------
+def generate_content(news):
+
+    key = os.getenv("GROQ_API_KEY")
+
+    if not key:
+        raise Exception("Missing GROQ_API_KEY")
 
     url = "https://api.groq.com/openai/v1/chat/completions"
 
     prompt = f"""
-You are an AI news analyst and content creator.
+Create:
 
-Using the news below, create:
-
-1. 5–7 top AI news stories
-2. What changed since yesterday
-3. A YouTube / Second Life on-camera script
-4. Podcast talking points
+1. Top 5–7 AI stories
+2. What changed from yesterday
+3. Video script
+4. Talking points
 5. LinkedIn post
 6. Threads post
 7. Instagram caption
-8. 7 tweets
+8. Seven tweets
 
-Keep it clear, engaging, and structured.
-
-NEWS DATA:
-{news_text}
+NEWS:
+{news}
 """
 
     response = requests.post(
         url,
         headers={
-            "Authorization": f"Bearer {api_key}",
+            "Authorization": f"Bearer {key}",
             "Content-Type": "application/json"
         },
         json={
-            "model": "llama3-70b-8192",
+            "model": "llama-3.3-70b-versatile",
             "messages": [
-                {"role": "user", "content": prompt}
-            ],
-            "temperature": 0.7
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ]
         }
     )
 
-    result = response.json()
+    print("Status:", response.status_code)
+    print(response.text)
 
-    return result["choices"][0]["message"]["content"]
+    data = response.json()
 
-# -----------------------------
-# 5. SAVE OUTPUT FILE
-# -----------------------------
-def save_output(text):
-    os.makedirs("output", exist_ok=True)
+    if "choices" not in data:
+        raise Exception(
+            f"Groq error:\n{data}"
+        )
 
-    filename = f"output/{datetime.now().strftime('%Y-%m-%d')}.txt"
+    return data["choices"][0]["message"]["content"]
 
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(text)
 
-# -----------------------------
-# 6. RUN EVERYTHING
-# -----------------------------
-if __name__ == "__main__":
-    print("Fetching AI news...")
+# ----------------
+# SAVE OUTPUT
+# ----------------
+def save(text):
 
-    news = get_news()
-    formatted = format_news(news)
+    os.makedirs(
+        "output",
+        exist_ok=True
+    )
 
-    print("Sending to AI model...")
+    filename = (
+        f"output/"
+        f"{datetime.now().strftime('%Y-%m-%d')}.txt"
+    )
 
-    content = generate_content(formatted)
+    with open(
+        filename,
+        "w",
+        encoding="utf-8"
+    ) as file:
 
-    print("Saving output...")
+        file.write(text)
 
-    save_output(content)
 
-    print("DONE - AI News Agent Complete")
+# ----------------
+# RUN
+# ----------------
+print("Fetching AI news...")
+
+news = get_news()
+
+formatted = format_news(news)
+
+print("Sending to AI model...")
+
+content = generate_content(
+    formatted
+)
+
+print("Saving...")
+
+save(content)
+
+print("SUCCESS")
