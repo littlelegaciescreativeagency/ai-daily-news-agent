@@ -59,16 +59,69 @@ def generate_content(news):
     url = "https://api.groq.com/openai/v1/chat/completions"
 
     prompt = f"""
-Create:
+You are a senior AI industry analyst and high-level content strategist.
 
-1. Top 5–7 AI stories
-2. What changed from yesterday
-3. Video script
-4. Talking points
-5. LinkedIn post
-6. Threads post
-7. Instagram caption
-8. Seven tweets
+You are NOT summarizing news. You are analyzing trends and explaining impact.
+
+Using the news below, produce:
+
+---
+
+## 1. Top AI News (5–7 stories)
+- Only the most important stories
+- No filler stories
+- Each must include:
+  - What happened
+  - Why it matters (real-world impact, not generic explanation)
+
+---
+
+## 2. What Changed Since Yesterday
+Focus ONLY on:
+- New developments today
+- What accelerated or slowed down
+- What gained vs lost relevance
+- Industry direction shifts
+
+Do NOT repeat headlines.
+
+---
+
+## 3. On-Camera Video Script
+- Start with a strong hook (NO greetings like "welcome back")
+- Assume audience already watches AI news
+- Make it sound like a real creator talking, not corporate
+- Include emotional + practical relevance
+- End with a strong takeaway or question
+
+---
+
+## 4. Talking Points
+Bullet format:
+- insights
+- implications
+- creator/business impact
+- controversy or tension if present
+
+---
+
+## 5. Social Media Pack
+
+- LinkedIn post (professional insight, not hype)
+- Threads post (opinion + engagement question)
+- Instagram caption (short, punchy, modern tone)
+- 7 X tweets:
+  - each must be unique insight
+  - NO duplicates of headlines
+  - include at least 2 opinion-based tweets
+
+---
+
+RULES:
+- No filler intros or greetings
+- No repetitive phrasing
+- Be analytical, not descriptive
+- Keep output tight, useful, and creator-focused
 
 NEWS:
 {news}
