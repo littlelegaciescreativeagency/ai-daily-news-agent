@@ -1,0 +1,47 @@
+## 1. Top AI News
+
+1. **Savi's app to protect consumers from AI scams**: Savi has raised $7 million in seed funding to launch an app that protects consumers from realistic AI scams, such as kidnappers demanding ransom. **Why it matters:** This app's launch highlights the growing need for AI-driven security solutions to combat increasingly sophisticated scams.
+2. **American autonomous ground vehicles in Ukraine**: Forterra has deployed over 100 self-driving ATVs in conflict zones in Ukraine, marking a significant milestone in autonomous vehicle deployment. **Why it matters:** This deployment demonstrates the potential of autonomous vehicles in high-stakes environments, with implications for future military and civilian applications.
+3. **AI-run ransomware attack still needed human intervention**: The first known AI-run ransomware attack required human setup and infrastructure, revealing that AI-driven cybercrime is not yet fully autonomous. **Why it matters:** This incident highlights the ongoing need for human oversight and intervention in AI-driven systems, particularly in high-risk areas like cybersecurity.
+4. **SK Hynix's AI-driven boom**: SK Hynix is experiencing a significant boom due to AI, with plans for a multibillion-dollar US IPO. **Why it matters:** This development underscores the growing importance of AI in driving business growth and investment opportunities.
+5. **Vercel CEO on splitting models from agents**: Guillermo Rauch discusses the importance of optimizing AI models for production and separating them from agents. **Why it matters:** This insight highlights the need for AI architecture optimization to ensure efficient and effective deployment of AI models.
+
+## 2. What Changed Since Yesterday
+
+* **Accelerated AI adoption**: The deployment of autonomous ground vehicles in Ukraine and the growth of SK Hynix's AI-driven business demonstrate accelerated AI adoption in various sectors.
+* **Shift in AI architecture focus**: Vercel CEO Guillermo Rauch's comments emphasize the importance of optimizing AI models for production, indicating a shift in industry focus towards efficient AI deployment.
+* **Growing concern about AI-driven scams**: Savi's app launch and the AI-run ransomware attack highlight the increasing need for AI-driven security solutions to combat sophisticated scams.
+
+## 3. On-Camera Video Script
+
+"The AI landscape is shifting at an unprecedented pace, with autonomous vehicles being deployed in conflict zones and AI-driven businesses experiencing massive growth. But with this growth comes new challenges, such as the need for AI-driven security solutions to combat sophisticated scams. As we hurtle towards a future where AI is increasingly embedded in our daily lives, we must ask ourselves: are we prepared to handle the consequences of AI-driven systems gone wrong? Can we trust AI to make decisions that impact human lives?"
+
+## 4. Talking Points
+
+* Insights:
+	+ AI adoption is accelerating across various sectors
+	+ AI-driven security solutions are becoming increasingly important
+	+ Optimizing AI models for production is crucial for efficient deployment
+* Implications:
+	+ AI-driven systems can have significant consequences if not properly overseen
+	+ The growth of AI-driven businesses will continue to drive investment opportunities
+* Creator/Business Impact:
+	+ AI-driven solutions can enhance business operations and growth
+	+ Creators must be aware of the potential risks and consequences of AI-driven systems
+* Controversy/Tension:
+	+ The use of AI in conflict zones raises ethical concerns
+	+ The potential for AI-driven scams and cybercrime highlights the need for robust security measures
+
+## 5. Social Media Pack
+
+* LinkedIn post: "As AI adoption accelerates across industries, it's essential to address the growing need for AI-driven security solutions. What steps is your organization taking to combat sophisticated scams and ensure the safe deployment of AI-driven systems? #AI #Security #Innovation"
+* Threads post: "What's the most significant challenge you're facing in implementing AI-driven solutions in your business? Is it optimizing models for production, addressing security concerns, or something else? Share your thoughts and let's discuss! #AI #Business #Challenges"
+* Instagram caption: "AI is changing the game, but are we ready for the consequences? From autonomous vehicles to AI-driven scams, the future is uncertain. Stay ahead of the curve and join the conversation! #AI #Future #Uncertainty"
+* Tweets:
+	1. "AI-driven security solutions are no longer a luxury, but a necessity. What's your organization doing to stay ahead of sophisticated scams? #AI #Security #Innovation"
+	2. "The use of AI in conflict zones raises important ethical questions. Where do you stand on this issue? #AI #Ethics #Conflict"
+	3. "Optimizing AI models for production is key to efficient deployment. What strategies are you using to achieve this? #AI #Production #Optimization"
+	4. "The growth of AI-driven businesses will continue to drive investment opportunities. Are you ready to capitalize on this trend? #AI #Business #Investment"
+	5. "AI-driven systems can have significant consequences if not properly overseen. What measures is your organization taking to ensure accountability? #AI #Accountability #Consequences"
+	6. "The potential for AI-driven scams and cybercrime is escalating. What steps can we take to prevent these threats? #AI #Cybercrime #Prevention"
+	7. "As AI continues to shape our world, it's essential to consider the human impact. What are your thoughts on the role of AI in society? #AI #HumanImpact #Society"
