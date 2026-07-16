@@ -1,0 +1,41 @@
+## 1. Top AI News
+
+1. **Applied Computing's $20M Series A**: Applied Computing has raised $20M to build a foundation AI model for the oil, gas, and petrochemical industry. This matters because it could lead to increased efficiency and cost savings for operators, while also reducing environmental impact.
+2. **Microsoft's AI Sales Strategy**: Microsoft is training salespeople to talk down OpenAI and Anthropic, promoting its in-house AI models as more efficient and cost-effective. This matters because it could signal a shift in the AI market, with companies prioritizing proprietary models over third-party solutions.
+3. **OpenAI's GPT-Red**: OpenAI has built an LLM super-hacker called GPT-Red to make its models safer. This matters because it could lead to more robust AI defenses against cyberattacks, increasing trust in AI technology.
+4. **Anthropic's AI Discovery**: Anthropic has developed a technique to glimpse inside large language models, revealing hidden spaces where AI puzzles over concepts. This matters because it could lead to a deeper understanding of AI decision-making and improve model performance.
+5. **Thinking Machines' Inkling**: Thinking Machines has released its first open model, Inkling, as a proof point against one-size-fits-all AI. This matters because it could lead to more specialized and effective AI solutions for specific industries and use cases.
+
+## 2. What Changed Since Yesterday
+
+New developments today include Applied Computing's $20M Series A and OpenAI's GPT-Red, which accelerated the trend towards more robust AI defenses and specialized models. Microsoft's AI sales strategy gained relevance, while OpenAI's hardware release slowed down due to the ongoing legal battle with Apple. The industry direction shifted towards more proprietary AI models and increased focus on AI safety.
+
+## 3. On-Camera Video Script
+
+"The AI landscape is shifting, and it's not just about the tech - it's about the people and the planet. With Applied Computing's $20M Series A, we're seeing a new wave of specialized AI models that could revolutionize industries like oil and gas. But what does this mean for the future of work and the environment? As Microsoft trains its salespeople to talk down OpenAI and Anthropic, we're forced to ask: are proprietary models the way forward, or will open-source solutions prevail? And with OpenAI's GPT-Red, we're seeing a new era of AI safety and security. But what are the implications for our digital lives and our collective trust in AI? The future of AI is complex, but one thing is clear: it's time to get informed and get involved."
+
+## 4. Talking Points
+
+* Applied Computing's $20M Series A is a significant investment in specialized AI models for the oil, gas, and petrochemical industry.
+* Microsoft's AI sales strategy highlights the growing competition between proprietary and open-source AI models.
+* OpenAI's GPT-Red is a major breakthrough in AI safety and security, with potential implications for the entire industry.
+* Anthropic's AI discovery reveals the complexities of large language models and the need for more research and understanding.
+* Thinking Machines' Inkling is a significant step towards more open and collaborative AI development.
+
+## 5. Social Media Pack
+
+**LinkedIn post**: "The AI landscape is shifting. With Applied Computing's $20M Series A, we're seeing a new wave of specialized AI models that could revolutionize industries like oil and gas. What does this mean for the future of work and the environment? #AI #innovation"
+
+**Threads post**: "What do you think is the most pressing issue in AI development today? Is it safety, security, or something else entirely? Let's discuss! #AI #ethics"
+
+**Instagram caption**: "AI is changing the game. From oil and gas to healthcare and finance, specialized models are revolutionizing industries. What's next? #AI #future"
+
+**Tweets**:
+
+1. "Applied Computing's $20M Series A is a significant investment in AI for the oil, gas, and petrochemical industry. What does this mean for the future of energy? #AI #energy"
+2. "Microsoft is training its salespeople to talk down OpenAI and Anthropic. Is this a sign of a growing AI rivalry? #AI #competition"
+3. "OpenAI's GPT-Red is a major breakthrough in AI safety and security. But what are the implications for our digital lives? #AI #security"
+4. "Anthropic's AI discovery reveals the complexities of large language models. What does this mean for AI development and research? #AI #research"
+5. "Thinking Machines' Inkling is a significant step towards more open and collaborative AI development. What's next for AI innovation? #AI #innovation"
+6. "The AI landscape is shifting, and it's not just about the tech - it's about the people and the planet. What's your take on the future of AI? #AI #future"
+7. "As AI models become more advanced, we need to ask: what are the implications for our collective trust in AI? Let's discuss! #AI #ethics"
