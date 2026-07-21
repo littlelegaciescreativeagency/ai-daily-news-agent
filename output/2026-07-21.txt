@@ -1,0 +1,36 @@
+## 1. Top AI News
+- Gritt exits stealth with $34 million to automate construction sites, focusing on solar plant construction, which matters because it can streamline the renewable energy infrastructure build-out, increasing efficiency and reducing costs.
+- Anthropic's $1.5B copyright settlement, although landmark, leaves the broader issue of using copyrighted works to train AI models unresolved, which matters because it highlights the need for clearer regulations on AI training data sources.
+- The rapid resignation of Trump's latest AI czar signifies turmoil in AI governance, which matters because consistent leadership is crucial for developing and implementing effective AI policies.
+- Google's development of a new AI chip for Gemini models aims to increase efficiency, which matters because more efficient AI processing can lead to breakthroughs in various applications, from healthcare to finance.
+- Advancements in materials science are pivotal for next-gen AI, as they enable more powerful, efficient, and sustainable computing, which matters because these advancements underpin all AI technological progress.
+- AI models are more likely to form biases in hiring than humans, which matters because it questions the fairness and reliability of AI in critical decision-making processes.
+- The introduction of GPT-Red, an LLM designed to test and strengthen other models against cyberattacks, matters because enhancing AI security is essential for trust and widespread adoption.
+
+## 2. What Changed Since Yesterday
+- The landscape of AI governance saw a significant shift with the resignation of Trump's AI czar, which accelerated the uncertainty surrounding U.S. AI policy direction.
+- New developments in materials science for AI gained relevance, as researchers and companies realized the foundational role these advancements play in AI's future.
+- The importance of addressing AI bias, especially in critical applications like hiring, came to the forefront, potentially slowing down the adoption of AI in these areas until solutions are found.
+- Google's move towards a more efficient AI chip indicates a shift in industry focus towards practical applications and efficiency, rather than just processing power.
+
+## 3. On-Camera Video Script
+"Imagine a future where solar plants are built faster and cheaper, thanks to robots. But while Gritt's $34 million funding is a step towards that, the real challenge lies in making AI fair and secure. With models like GPT-Red being developed to protect against cyberattacks and studies showing AI can be more biased than humans in hiring, we're forced to confront the harsh realities of our creations. The question isn't just about how powerful AI can be, but how just and safe it will be for everyone. Can we harness the power of AI without losing our values?"
+
+## 4. Talking Points
+- Insights: AI's potential to revolutionize industries like construction and energy, the critical role of materials science in AI development.
+- Implications: The need for clearer AI governance and policy, especially regarding copyrighted material and model bias.
+- Creator/Business Impact: The importance of addressing AI security and bias for widespread trust and adoption.
+- Controversy/Tension: The ethical dilemma of AI bias, the conflict between AI development and copyright law, the geopolitical tensions reflected in AI development races.
+
+## 5. Social Media Pack
+- LinkedIn Post: "AI's future isn't just about processing power; advancements in materials science are key to unlocking more efficient and sustainable computing. This underpins all AI progress, from more efficient data centers to smaller, smarter devices."
+- Threads Post: "What if the next big thing in tech isn't a gadget, but a material? Advances in materials science are quietly revolutionizing AI. Share your thoughts on how this could change the game."
+- Instagram Caption: "The future of AI is being built, one material at a time."
+- Tweets:
+  1. "Did you know AI models can develop their own biases? Research suggests they can be more biased than humans in hiring. Time to rethink how we use AI in critical decisions."
+  2. "Google's new AI chip is all about efficiency. But what does this mean for the future of AI applications? More power, less energy."
+  3. "The resignation of Trump's AI czar in just days signifies turmoil in AI governance. Consistent leadership is crucial for AI policy."
+  4. "Meet GPT-Red, the AI model designed to make other models safer by testing them against cyberattacks. The future of AI security is here."
+  5. "AI isn't just about tech; it's about people. Ensuring fairness and transparency in AI decision-making is our collective responsibility."
+  6. "Materials science is the unsung hero of AI development. Without advancements here, AI wouldn't be where it is today. Let's give it the recognition it deserves."
+  7. "What's the true cost of AI advancement? As we push for more powerful models, let's not forget the importance of fairness, security, and sustainability."
