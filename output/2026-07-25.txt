@@ -1,0 +1,44 @@
+## 1. Top AI News (5–7 stories)
+
+1. **OpenAI's AI Keypad**: OpenAI has introduced a new AI keypad that will appeal to coders but may confuse others. This matters because it shows how AI is being integrated into everyday tools, potentially changing how we interact with technology.
+2. **Prentis AI Lab Funding**: Prentis, a new AI lab co-founded by Reid Hoffman and Mark Pincus, is in talks to raise $100M. This is significant because it indicates a growing interest in automating routine computer tasks, which could have a substantial impact on the tech industry.
+3. **Cognition Acquires Poke**: Cognition has acquired Poke, highlighting the importance of AI personality in user interactions. This acquisition shows that the way AI assistants interact with users is becoming a key competitive advantage.
+4. **Anthropic Launches Opus 5**: Anthropic has launched Opus 5, a cheaper and less restrictive alternative to Fable. This matters because it could make AI technology more accessible to a wider range of users and use cases.
+5. **US Response to Chinese AI**: The US is weighing its response to Chinese AI, with the industry urging against broad restrictions on open-weight AI models. This is crucial because it could impact the development and accessibility of AI technology globally.
+6. **AI in Medicine Design**: AI is helping scientists design the next generation of medicines, making the process more efficient and reducing costs. This has significant implications for the healthcare industry and could lead to breakthroughs in medical research.
+7. **Materials Science in AI**: Advancements in materials science are driving innovation in AI technology, enabling more powerful and efficient computing. This is essential for the continued progress of AI research and development.
+
+## 2. What Changed Since Yesterday
+
+- **Increased Focus on AI Accessibility**: Today's developments suggest a growing emphasis on making AI technology more accessible and user-friendly, with advancements like OpenAI's keypad and Anthropic's Opus 5.
+- **Rising Importance of AI Personality**: The acquisition of Poke by Cognition underscores the importance of AI personality in competitive advantages, indicating a shift towards more personalized and engaging AI interactions.
+- **US Policy on Chinese AI**: The industry's stance against broad restrictions on open-weight AI models has accelerated, with companies like Nvidia and Mistral urging policymakers to reconsider their approach.
+- **AI in Healthcare**: The role of AI in medicine design has gained relevance, highlighting the potential for AI to revolutionize the healthcare industry through more efficient and cost-effective drug development.
+
+## 3. On-Camera Video Script
+
+"The future of AI isn't just about algorithms and computing power; it's about how we interact with these technologies. From OpenAI's new keypad to Cognition's acquisition of Poke, we're seeing a shift towards more personalized and accessible AI. But what does this mean for us? As AI becomes more integrated into our daily lives, we need to consider the implications of biased AI systems in hiring and the potential risks of weather data sabotage. The question is, are we ready for an AI-driven world where our interactions are shaped by technology that's still learning to understand us?"
+
+## 4. Talking Points
+
+* The integration of AI into everyday tools is changing how we interact with technology.
+* AI personality is becoming a key competitive advantage in user interactions.
+* The US response to Chinese AI could significantly impact the global development of AI technology.
+* AI is revolutionizing the healthcare industry through more efficient drug design and development.
+* The risk of AI biases in hiring and weather data sabotage is rising.
+* Materials science innovation is crucial for the advancement of AI technology.
+* The industry is moving towards more accessible and user-friendly AI solutions.
+
+## 5. Social Media Pack
+
+- **LinkedIn Post**: "The future of AI is not just about technology; it's about how we design interactions that are more human. The latest advancements in AI keypads and AI personality are paving the way for a more accessible and user-friendly AI experience."
+- **Threads Post**: "What's the most significant challenge facing AI development today? Is it the risk of biases, the ethics of AI personality, or something else entirely? Share your thoughts!"
+- **Instagram Caption**: "AI is changing the game, from keystrokes to personalities. What's next?"
+- **Tweets**:
+  1. "AI is not just a tool; it's becoming a partner in innovation. But are we ready for the implications?"
+  2. "The US response to Chinese AI could be a turning point in global AI development. What's at stake?"
+  3. "Materials science is the unsung hero of AI advancement. Let's talk about why it matters."
+  4. "Bias in AI hiring is a real concern. How can we ensure fairness in AI-driven decision-making?"
+  5. "The future of medicine is being written with AI. But what does this mean for healthcare?"
+  6. "As AI becomes more personal, the risk of biases and sabotage grows. How do we mitigate these risks?"
+  7. "Accessibility and personality are the new frontiers in AI. What does this mean for the future of human-AI interactions?"
