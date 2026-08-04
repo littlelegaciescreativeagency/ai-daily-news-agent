@@ -1,0 +1,42 @@
+## 1. Top AI News (5–7 stories)
+
+1. **EON's Space Laser Communications System**: Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built, which could revolutionize data transfer and reduce reliance on ocean fiber. Why it matters: This technology has the potential to significantly increase data transfer speeds and enable more efficient communication in remote or hard-to-reach areas.
+2. **Palantir CEO Criticizes AI Industry**: Palantir CEO Alex Karp called the AI industry "Marxist" after a successful quarter, warning that AI frontier labs are untrustworthy for enterprises. Why it matters: Karp's comments highlight the ongoing debate about the ethics and trustworthiness of AI development, which could impact the adoption of AI technologies in various industries.
+3. **AWS Partners with Superblocks**: AWS is helping vibe-coding startup Superblocks by allowing its tool to be embedded into the private clouds of AWS customers, further decoupling apps from models. Why it matters: This partnership demonstrates the growing trend of decoupling applications from AI models, enabling more flexibility and customization in AI development.
+4. **Design Arena Raises $7.9 Million**: Design Arena, a platform used by 5.3 million people worldwide, raised $7.9 million to bring human evaluations to AI models, emphasizing the importance of human judgment in AI development. Why it matters: This investment highlights the need for human oversight and evaluation in AI development to ensure that AI models are accurate, reliable, and unbiased.
+5. **AI Agents' Vulnerability to Attack**: Researchers argue that large language models are inherently vulnerable to attacks due to a fundamental flaw in their design, which has significant implications for the safety and security of AI technologies. Why it matters: This vulnerability could compromise the reliability and trustworthiness of AI systems, making them more susceptible to cyber attacks and data breaches.
+
+## 2. What Changed Since Yesterday
+
+New developments today include the announcement of EON's space laser communications system and the partnership between AWS and Superblocks. The criticism of the AI industry by Palantir's CEO has accelerated the debate about AI ethics and trustworthiness. The investment in Design Arena has emphasized the importance of human evaluations in AI development. The vulnerability of AI agents to attack has gained relevance, highlighting the need for improved security measures in AI development.
+
+## 3. On-Camera Video Script
+
+"The AI industry is at a crossroads, with innovations like space laser communications and vibe-coding pushing the boundaries of what's possible. But with great power comes great responsibility, and the criticism of AI ethics and trustworthiness is growing louder. As we hurtle towards a future where AI is ubiquitous, we need to ask ourselves: are we prioritizing progress over people? The vulnerability of AI agents to attack is a stark reminder that our pursuit of innovation must be balanced with a commitment to safety and security. The question is, can we harness the potential of AI while protecting ourselves from its risks?"
+
+## 4. Talking Points
+
+* The AI industry is experiencing a surge in innovation, with space laser communications and vibe-coding leading the charge.
+* The criticism of AI ethics and trustworthiness is growing, with some industry leaders calling for greater oversight and regulation.
+* The partnership between AWS and Superblocks demonstrates the trend towards decoupling apps from models, enabling more flexibility and customization in AI development.
+* The investment in Design Arena highlights the importance of human evaluations in AI development, ensuring that AI models are accurate, reliable, and unbiased.
+* The vulnerability of AI agents to attack is a significant concern, with implications for the safety and security of AI systems.
+* The debate about AI ethics and trustworthiness is likely to continue, with industry leaders and experts weighing in on the importance of responsible AI development.
+
+## 5. Social Media Pack
+
+LinkedIn post: "The AI industry is at a critical juncture, with innovations like space laser communications and vibe-coding pushing the boundaries of what's possible. But as we pursue progress, we must prioritize responsible AI development and address the growing concerns about ethics and trustworthiness."
+
+Threads post: "What do you think is the most significant challenge facing the AI industry today? Is it the lack of transparency, the vulnerability to attack, or something else entirely? Share your thoughts and let's keep the conversation going!"
+
+Instagram caption: "AI is changing the game, but are we playing by the rules? Stay informed, stay vigilant, and let's shape the future of AI together!"
+
+Tweets:
+
+* "The future of AI is being written today. Will we prioritize progress over people, or will we find a way to balance innovation with responsibility? #AIethics #ResponsibleAI"
+* "Space laser communications is the latest innovation in AI, but what does it mean for the future of data transfer and security? #AI #SpaceTech"
+* "The criticism of AI ethics is growing louder. Are we listening, or are we too caught up in the hype? #AIethics #Trustworthiness"
+* "The partnership between AWS and Superblocks is a significant step towards decoupling apps from models. What does this mean for the future of AI development? #AI #CloudComputing"
+* "The investment in Design Arena highlights the importance of human evaluations in AI development. Are we doing enough to ensure that AI models are accurate, reliable, and unbiased? #AI #HumanEvaluation"
+* "The vulnerability of AI agents to attack is a stark reminder that our pursuit of innovation must be balanced with a commitment to safety and security. What can we do to mitigate these risks? #AI #CyberSecurity"
+* "The debate about AI ethics is far from over. What do you think is the most pressing issue facing the AI industry today, and how can we address it? #AIethics #Debate"
