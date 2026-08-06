@@ -1,0 +1,50 @@
+## 1. Top AI News
+
+1. **Google Maps expansion**: Google Maps has added new features, including food ordering and hotel bookings, transforming it from a navigation tool to a real-world task assistant. Why it matters: This shift indicates a significant change in how users interact with Google Maps, potentially increasing user engagement and dependence on the platform.
+2. **Omilia's funding**: Omilia raised $67M to scale its customer support platform, achieving a 10x increase in ARR to $60 million. Why it matters: This funding round demonstrates the growing importance of AI-powered customer support, highlighting the need for companies to invest in efficient and effective support solutions.
+3. **Meta's Muse Code**: Meta launched Muse Code, an AI agent for handling complex tasks with large code bases. Why it matters: This development showcases Meta's commitment to AI-powered coding solutions, which could revolutionize the way developers work and collaborate.
+4. **Klaviyo's acquisition**: Klaviyo acquired Elias Torres' agency, reuniting tech founders and expanding its AI capabilities. Why it matters: This acquisition highlights the growing trend of e-commerce companies investing in AI-powered solutions to enhance customer experiences and streamline operations.
+5. **Jeff Dean's departure**: Jeff Dean and other top AI researchers left Google to launch their own startup, focusing on using AI for scientific discovery. Why it matters: This departure signals a significant shift in the AI landscape, as top talent leaves established companies to pursue innovative ventures and push the boundaries of AI research.
+
+## 2. What Changed Since Yesterday
+
+New developments include Google Maps' expansion into real-world task assistance, Omilia's significant funding round, and Meta's launch of Muse Code. The trend of AI researchers leaving established companies to launch their own startups has accelerated, with Jeff Dean's departure being the most notable example. The relevance of AI-powered customer support and e-commerce solutions has increased, while the hype around robotics has slowed down due to protectionism concerns.
+
+## 3. On-Camera Video Script
+
+"Imagine a world where your navigation tool not only shows you the way but also helps you complete real-world tasks. That's the world we're living in now, thanks to Google Maps' latest update. But what does this mean for us? It means we're becoming increasingly dependent on AI-powered assistants to manage our daily lives. The question is, are we ready to surrender our autonomy to these assistants, and what are the consequences of doing so?"
+
+## 4. Talking Points
+
+* Insights:
+	+ AI-powered assistants are becoming increasingly integrated into our daily lives
+	+ The line between navigation tools and personal assistants is blurring
+* Implications:
+	+ Increased dependence on AI-powered assistants
+	+ Potential consequences for our autonomy and decision-making abilities
+* Creator/Business Impact:
+	+ Opportunity for businesses to invest in AI-powered customer support and e-commerce solutions
+	+ Need for companies to adapt to the changing AI landscape and talent migration
+* Controversy or Tension:
+	+ Concerns around AI protectionism and its impact on the industry
+	+ Debate around the ethics of AI-powered assistants and their potential consequences
+
+## 5. Social Media Pack
+
+LinkedIn post:
+"The AI landscape is shifting rapidly, with top talent leaving established companies to launch their own startups. What does this mean for the future of AI research and development? #AI #Innovation"
+
+Threads post:
+"Are we ready to surrender our autonomy to AI-powered assistants? Share your thoughts on the latest developments in AI and its potential consequences. #AI #Ethics"
+
+Instagram caption:
+"AI is changing the game! From navigation tools to personal assistants, the line is blurring. What's next? #AI #Future"
+
+Tweets:
+1. "The future of AI research is being shaped by top talent leaving established companies to launch their own startups. What's driving this trend? #AI #Innovation"
+2. "AI-powered customer support is on the rise! What does this mean for businesses and customers? #AI #CustomerSupport"
+3. "The ethics of AI-powered assistants are being debated. Are we ready to surrender our autonomy? #AI #Ethics"
+4. "The AI hype is real, but what's behind the hype? Let's separate fact from fiction. #AI #Hype"
+5. "The migration of AI talent from established companies to startups is a significant trend. What are the implications for the industry? #AI #Talent"
+6. "The line between navigation tools and personal assistants is blurring. What's next for AI-powered assistants? #AI #Assistants"
+7. "The impact of AI protectionism on the industry is being felt. What are the consequences of this trend? #AI #Protectionism"
